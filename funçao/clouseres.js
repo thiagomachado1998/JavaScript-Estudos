@@ -15,3 +15,4 @@ function fora (){
 const minhaFuncao = fora()
 
 console.log(minhaFuncao())
+/* a funcao sempre vai procurar o mais proximo possivel o objeto que for configurado para ser executado, neste caso a const x que esta dentro da funcao nao a que esta fora*/
