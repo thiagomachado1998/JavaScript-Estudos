@@ -14,8 +14,7 @@ const produtos = [
     {nome:'notebook', preco:1248, fragil:true},
     {nome:'ipad', preco:1147, fragil:true},
     {nome: 'jordan1',preco:1215, fragil : false}
-]
-
+ 
 const caro = a => a.preco > 1200
 
 console.log(produtos.filter2(caro))

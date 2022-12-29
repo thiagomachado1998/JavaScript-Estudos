@@ -1,0 +1,17 @@
+{
+  "name": "funcionarios",
+  "version": "1.0.0",
+  "description": "fsdfds",
+  "main": "index.js",
+  "scripts": {
+    "test": "dsfdsf"
+  },
+  "keywords": [
+    "dsffdfs"
+  ],
+  "author": "thiago",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.1"
+  }
+}
